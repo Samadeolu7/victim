@@ -1,0 +1,11 @@
+route for
+create post  done untested
+delete post  done but untested
+page for feeds  done but untested
+direct message feature
+
+index page 
+feed page
+profile page
+edit post
+dm

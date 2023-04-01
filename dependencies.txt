@@ -1,0 +1,8 @@
+flask flask_sqlalchemy psycopg2-binary
+flask_login
+wtform
+flask_wtf
+flask
+python-dotenv
+authlib
+requests
